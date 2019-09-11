@@ -1,5 +1,5 @@
 # testcomponent
-Copyright Martin hughes
+
 GitHub test component
 branch2
 add a line in readme
