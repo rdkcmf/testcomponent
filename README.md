@@ -1,6 +1,3 @@
 # testcomponent
 GitHub test component
-branch
-
-
-test
+creating another branch directly as I am a member of testcomponent_admins
