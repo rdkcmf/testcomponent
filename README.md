@@ -7,4 +7,5 @@ GitHub test component
 branch
 
 
-test
+have changed the license Gist..
+Made another commentg
